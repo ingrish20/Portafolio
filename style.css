@@ -21,8 +21,8 @@ body {
 }
 
 #imagePerfil {
-    width: 300px; 
-    position: absolute;
-    right: 20%;
-    bottom: 25%;
+  position: absolute;
+  right: 20%;
+  bottom:30%;
+
 }
