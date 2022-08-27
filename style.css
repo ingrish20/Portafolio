@@ -1,0 +1,28 @@
+body {
+    margin: 5%;
+}
+
+#nombre {
+    background-color: rgb(209, 183, 228);
+    font-size: 30px;
+}
+
+#parrafo {
+    color: rgb(65, 52, 65);
+    margin: 0%;
+    width: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 25px;
+    padding: 25px;
+    position: absolute;
+    left: 15%;
+    bottom: 50%;
+    
+}
+
+#imagePerfil {
+    width: 300px; 
+    position: absolute;
+    right: 20%;
+    bottom: 25%;
+}
