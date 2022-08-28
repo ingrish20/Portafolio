@@ -1,28 +1,32 @@
 body {
-    margin: 5%;
+    margin: 0%;
+
 }
 
-#nombre {
+header {
     background-color: rgb(209, 183, 228);
     font-size: 30px;
-}
-
-#parrafo {
-    color: rgb(65, 52, 65);
-    margin: 0%;
-    width: 40%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 25px;
     padding: 25px;
-    position: absolute;
-    left: 15%;
-    bottom: 50%;
-    
+    text-align: center;
 }
 
-#imagePerfil {
-  position: absolute;
-  right: 20%;
-  bottom:30%;
+section {
+    margin: 3%;
+    padding: 5%;
 
+}
+    
+
+p {
+    color: rgb(65, 52, 65);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin: 0;
+    text-align: center;
+
+}
+
+#image {
+    display: flex;
+    justify-content: left;
 }
