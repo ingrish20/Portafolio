@@ -10,37 +10,27 @@ header {
     text-align: center;
 }
 
-
-p {
-    color: rgb(65, 52, 65);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    margin: 0;
-    text-align: center;
-
-}
-/*
-div {
-    padding: 5%;
-    width: 50%;
+section {
+    padding: 15px;
 }
 
-#section {
-    background-color: rgb(247, 186, 247);  
-}
-*/
 
 .cajas {
     padding: 5%;
     width: 50%;
-    background-color: rgb(247, 186, 247);  
+    background-color: rgb(229, 208, 229)
 }
 
 .cajas h1 {
     color: brown;
 }
 
+
 .cajas img {
     width: 32%;
+}
+
+.cajas footer {
+    padding: 15px;
 }
 
