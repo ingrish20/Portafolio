@@ -1,0 +1,36 @@
+body {
+    margin: 5%;
+
+}
+
+header {
+    background-color: rgb(209, 183, 228);
+    font-size: 30px;
+    padding: 25px;
+    text-align: center;
+}
+
+section {
+    padding: 15px;
+}
+
+
+.cajas {
+    padding: 5%;
+    width: 50%;
+    background-color: rgb(229, 208, 229)
+}
+
+.cajas h1 {
+    color: brown;
+}
+
+
+.cajas img {
+    width: 32%;
+}
+
+.cajas footer {
+    padding: 15px;
+}
+
